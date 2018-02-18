@@ -69,7 +69,7 @@
 .border_right-2 {
   float: left;
   width: 31.5%;
-  border-right: 1px dotted #ccc;
+  border-right: 1px 1px dotted #ccc;
   padding-right: 20px;
 }
 

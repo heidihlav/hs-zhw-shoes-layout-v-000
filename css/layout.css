@@ -61,8 +61,7 @@
 }
 
 .border-right {
-  border-right: 1px dotted #ccc;
-  padding-right: 20px;
+
   
 }
 
@@ -74,6 +73,8 @@
 .border_right-2 {
   float: left;
   width: 31.5%;
+  border-right: 1px dotted #ccc;
+  padding-right: 20px;
 }
 
 .col-3 {
